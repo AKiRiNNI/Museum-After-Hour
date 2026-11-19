@@ -22,3 +22,6 @@
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Museum build: downloaded third-party source files (re-fetch with Docs/MuseumBuild/tools)
+Docs/MuseumBuild/staging/
